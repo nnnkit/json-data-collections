@@ -2,55 +2,55 @@
   "houses": [
     {
       "name": "Starks",
-      "wikiSuffix": "House_Stark",
+      "wikiSuffix": "http://gameofthrones.wikia.com/wiki/House_Stark",
       "people": [
         {
           "name": "Eddard \"Ned\" Stark",
           "description": "Lord of Winterfell - Warden of the North - Hand of the King - Married to Catelyn (Tully) Stark",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-eddard-stark.jpg",
-          "wikiSuffix": "Eddard_Stark"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Eddard_Stark"
         },
         {
           "name": "Benjen Stark",
           "description": "Brother of Eddard Stark - First ranger of the Night's Watch",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-benjen-stark.jpg",
-          "wikiSuffix": "Benjen_Stark"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Benjen_Stark"
         },
         {
           "name": "Robb Stark",
           "description": "Son of Eddard and Catelyn Stark - Direwolf: Grey Wind",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-robb-stark.jpg",
-          "wikiSuffix": "Robb_Stark"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Robb_Stark"
         },
         {
           "name": "Sansa Stark",
           "description": "Daughter of Eddard and Catelyn Stark - Direwolf: Lady",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-sansa-stark.jpg",
-          "wikiSuffix": "Sansa_Stark"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Sansa_Stark"
         },
         {
           "name": "Arya Stark",
           "description": "Daughter of Eddard and Catelyn Stark - Direwolf: Nymeria",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-arya-stark.jpg",
-          "wikiSuffix": "Arya_Stark"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Arya_Stark"
         },
         {
           "name": "Brandon \"Bran\" Stark",
           "description": "Son of Eddard and Catelyn Stark - Direwolf: Summer",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-brandon-stark.jpg",
-          "wikiSuffix": "Brandon_Stark"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Brandon_Stark"
         },
         {
           "name": "Rickon Stark",
           "description": "Son of Eddard and Catelyn Stark - Direwolf: Shaggydog",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-rickon-stark.jpg",
-          "wikiSuffix": "Rickon_Stark"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Rickon_Stark"
         },
         {
           "name": "Jon Snow",
           "description": "Bastard son of Eddard Stark - Steweard in the Night's Watch - Direwolf: Ghost",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-jon-snow.jpg",
-          "wikiSuffix": "Jon_Snow"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Jon_Snow"
         }
       ]
     },
@@ -59,31 +59,31 @@
 
     {
       "name": "Lannisters",
-      "wikiSuffix": "House_Lannister",
+      "wikiSuffix": "http://gameofthrones.wikia.com/wiki/House_Lannister",
       "people": [
         {
           "name": "Tywin Lannister",
           "description": "Lord of Casterly Rock - Warden of the West",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-tywin-lannister.jpg",
-          "wikiSuffix": "Tywin_Lannister"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Tywin_Lannister"
         },
         {
           "name": "Tyrion Lannister",
           "description": "Son of Tywin Lannister - The Imp",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-tyrion-lannister.jpg",
-          "wikiSuffix": "Tyrion_Lannister"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Tyrion_Lannister"
         },
         {
           "name": "Jaime Lannister",
           "description": "The Kingslayer - Knight of the Kingsgaurd - Son of Tywin Lannister",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-jaime-lannister.jpg",
-          "wikiSuffix": "Jaime_Lannister"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Jaime_Lannister"
         },
         {
           "name": "Queen Cersei (Lannister) Baratheon",
           "description": "Married to King Robert Baratheon - Daughter of Tywin Lannister",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-cersei-lannister.jpg",
-          "wikiSuffix": "Cersei_Lannister"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Cersei_Lannister"
         }
       ]
     },
@@ -91,43 +91,43 @@
 
     {
       "name": "Baratheons",
-      "wikiSuffix": "House_Baratheon",
+      "wikiSuffix": "http://gameofthrones.wikia.com/wiki/House_Baratheon",
       "people": [
         {
           "name": "King Robert Baratheon",
           "description": "The first of his name - Lord of the Seven Kingdoms",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-robert-baratheon.jpg",
-          "wikiSuffix": "Robert_Baratheon"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Robert_Baratheon"
         },
         {
           "name": "Stannis Baratheon",
           "description": "Lord of Dragonstone - Master of Ships - Brother of Robert Baratheon",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-stannis-baratheon.jpg",
-          "wikiSuffix": "Stannis_Baratheon"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Stannis_Baratheon"
         },
         {
           "name": "Renly Baratheon",
           "description": "Lord of Storm's End - Master of Laws - Brother of Robert Baratheon",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-renly-baratheon.jpg",
-          "wikiSuffix": "Renly_Baratheon"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Renly_Baratheon"
         },
         {
           "name": "Joffrey Baratheon",
           "description": "Heir to the Iron Throne - Son of Robert and Cersei Baratheon",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-joffrey-baratheon.jpg",
-          "wikiSuffix": "Joffrey_Baratheon"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Joffrey_Baratheon"
         },
         {
           "name": "Tommen Baratheon",
           "description": "Son of Robert and Cersei Baratheon",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-tommen-baratheon.jpg",
-          "wikiSuffix": "Tommen_Baratheon"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Tommen_Baratheon"
         },
         {
           "name": "Myrcella Baratheon",
           "description": "Daughter of Robert and Cersei Baratheon",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-myrcella-baratheon.jpg",
-          "wikiSuffix": "Myrcella_Baratheon"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Myrcella_Baratheon"
         }
       ]
     },
@@ -137,19 +137,19 @@
 
     {
       "name": "Targaryens",
-      "wikiSuffix": "House_Targaryen",
+      "wikiSuffix": "http://gameofthrones.wikia.com/wiki/House_Targaryen",
       "people": [
         {
           "name": "Daenerys Targaryen",
           "description": "Stormborn - Khaleesi of the Dothraki - The Unburnt - Mother of Dragons - Daughter of Aerys II Targaryen \"The Mad King\"",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-daenerys-targaryen.jpg",
-          "wikiSuffix": "Daenerys_Targaryen"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Daenerys_Targaryen"
         },
         {
           "name": "Viserys Targaryen",
           "description": "The Beggar King - Son of Aerys II Targaryen \"The Mad King\"",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-viserys-targaryen.jpg",
-          "wikiSuffix": "Viserys_Targaryen"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Viserys_Targaryen"
         }
       ]
     },
@@ -158,25 +158,25 @@
 
     {
       "name": "Greyjoys",
-      "wikiSuffix": "House_Greyjoy",
+      "wikiSuffix": "http://gameofthrones.wikia.com/wiki/House_Greyjoy",
       "people": [
         {
           "name": "Balon Greyjoy",
           "description": "Lord Reaper of Pyke - Head of House Greyjoy",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-balon-greyjoy.jpg",
-          "wikiSuffix": "Balon_Greyjoy"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Balon_Greyjoy"
         },
         {
           "name": "Theon Greyjoy",
           "description": "Ward of the Starks - Heir to the Iron Islands - Son of Balon Greyjoy",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-theon-greyjoy.jpg",
-          "wikiSuffix": "Theon_Greyjoy"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Theon_Greyjoy"
         },
         {
           "name": "Yara Greyjoy",
           "description": "Ironborn - Son of Balon Greyjoy",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-yara-greyjoy.jpg",
-          "wikiSuffix": "Yara_Greyjoy"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Yara_Greyjoy"
         }
 
       ]
@@ -184,19 +184,19 @@
 
     {
       "name": "Tyrells",
-      "wikiSuffix": "House_Tyrell",
+      "wikiSuffix": "http://gameofthrones.wikia.com/wiki/House_Tyrell",
       "people": [
         {
           "name": "Margaery (Tyrell) Baratheon",
           "description": "Wife of Renly Baratheon - Sister of Loras Tyrell - Granddaughter of Olenna Tyrell",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-margaery-tyrell.jpg",
-          "wikiSuffix": "Margaery_Tyrell"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Margaery_Tyrell"
         },
         {
           "name": "Loras Tyrell",
           "description": "Heir to Highgarden - Commander of the Kings Gaurd - Brother of Margaery Baratheon",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-loras-tyrell.jpg",
-          "wikiSuffix": "Loras_Tyrell"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Loras_Tyrell"
         }
 
       ]
@@ -204,31 +204,31 @@
 
     {
       "name": "Tullys",
-      "wikiSuffix": "House_Tully",
+      "wikiSuffix": "http://gameofthrones.wikia.com/wiki/House_Tully",
       "people": [
         {
           "name": "Catelyn (Tully) Stark",
           "description": "Married to Eddard Stark - Daughter of Hoster Tully",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-catelyn-tully.jpg",
-          "wikiSuffix": "Catelyn_Tully"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Catelyn_Tully"
         },
         {
           "name": "Lysa (Tully) Arryn",
           "description": "Widow of Jon Arryn - Daughter of Hoster Tully",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-lysa-tully.jpg",
-          "wikiSuffix": "Lysa_Tully"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Lysa_Tully"
         },
         {
           "name": "Edmure Tully",
           "description": "Heir to Riverrun - Son of Hoster Tully",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-edmure-tully.jpg",
-          "wikiSuffix": "Edmure_Tully"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Edmure_Tully"
         },
         {
           "name": "Brynden Tully",
           "description": "Lord of Riverrun - Head of House Tully - Brother of Hoster Tully",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-brynden-tully.jpg",
-          "wikiSuffix": "Brynden_Tully"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Brynden_Tully"
         }
 
       ]
@@ -236,13 +236,13 @@
 
     {
       "name": "Redwyne",
-      "wikiSuffix": "House_Redwyne",
+      "wikiSuffix": "http://gameofthrones.wikia.com/wiki/House_Redwyne",
       "people": [
         {
           "name": "Olenna (Redwyne) Tyrell",
           "description": "Matriarch of House Tyrell - Queen of Thorns",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-olenna-tyrell.jpg",
-          "wikiSuffix": "Olenna_Tyrell"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Olenna_Tyrell"
         }
 
       ]
@@ -250,13 +250,13 @@
 
     {
       "name": "Freys",
-      "wikiSuffix": "House_Freys",
+      "wikiSuffix": "http://gameofthrones.wikia.com/wiki/House_Freys",
       "people": [
         {
           "name": "Walder Frey",
           "description": "Lord of the Crossing - Head of House Frey",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-walder-frey.jpg",
-          "wikiSuffix": "Walder_Frey"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Walder_Frey"
         }
 
       ]
@@ -264,13 +264,13 @@
 
     {
       "name": "Arryns",
-      "wikiSuffix": "House_Arryns",
+      "wikiSuffix": "http://gameofthrones.wikia.com/wiki/House_Arryns",
       "people": [
         {
           "name": "Jon Arryn",
           "description": "Lord of the Eyrie - Head of House Arryn - Warden of the East - Defender of the Vale",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-jon-arryn.jpg",
-          "wikiSuffix": "Jon_Arryn"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Jon_Arryn"
         }
 
       ]
@@ -278,13 +278,13 @@
 
     {
       "name": "Dothrakis",
-      "wikiSuffix": "House_Dothrakis",
+      "wikiSuffix": "http://gameofthrones.wikia.com/wiki/House_Dothrakis",
       "people": [
         {
           "name": "Khal Drogo",
           "description": "Leader of the Dothraki people - Dothraki Warlord - Married to Daenerys Targaryen",
           "imageSuffix": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-khal-drogo.jpg",
-          "wikiSuffix": "Drogo"
+          "wikiSuffix": "http://gameofthrones.wikia.com/wiki/Drogo"
         }
 
       ]
