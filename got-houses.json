@@ -55,8 +55,6 @@
       ]
     },
 
-
-
     {
       "name": "Lannisters",
       "wikiLink": "http://gameofthrones.wikia.com/wiki/House_Lannister",
@@ -87,7 +85,6 @@
         }
       ]
     },
-
 
     {
       "name": "Baratheons",
@@ -132,9 +129,6 @@
       ]
     },
 
-
-
-
     {
       "name": "Targaryens",
       "wikiLink": "http://gameofthrones.wikia.com/wiki/House_Targaryen",
@@ -153,8 +147,6 @@
         }
       ]
     },
-
-
 
     {
       "name": "Greyjoys",
@@ -178,7 +170,6 @@
           "image": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-yara-greyjoy.jpg",
           "wikiLink": "http://gameofthrones.wikia.com/wiki/Yara_Greyjoy"
         }
-
       ]
     },
 
@@ -198,7 +189,6 @@
           "image": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-loras-tyrell.jpg",
           "wikiLink": "http://gameofthrones.wikia.com/wiki/Loras_Tyrell"
         }
-
       ]
     },
 
@@ -230,7 +220,6 @@
           "image": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-brynden-tully.jpg",
           "wikiLink": "http://gameofthrones.wikia.com/wiki/Brynden_Tully"
         }
-
       ]
     },
 
@@ -244,7 +233,6 @@
           "image": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-olenna-tyrell.jpg",
           "wikiLink": "http://gameofthrones.wikia.com/wiki/Olenna_Tyrell"
         }
-
       ]
     },
 
@@ -258,7 +246,6 @@
           "image": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-walder-frey.jpg",
           "wikiLink": "http://gameofthrones.wikia.com/wiki/Walder_Frey"
         }
-
       ]
     },
 
@@ -272,7 +259,6 @@
           "image": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-jon-arryn.jpg",
           "wikiLink": "http://gameofthrones.wikia.com/wiki/Jon_Arryn"
         }
-
       ]
     },
 
@@ -286,9 +272,7 @@
           "image": "http://cheatsheetworld.com/img/entertainment/game-of-thrones/game-of-thrones-khal-drogo.jpg",
           "wikiLink": "http://gameofthrones.wikia.com/wiki/Drogo"
         }
-
       ]
     }
-
   ]
 }
